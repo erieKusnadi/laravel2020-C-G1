@@ -3,4 +3,6 @@ laravel2020 class C Group 1
 
 SI Penjualan Buku
 
-Khoirul Amir Fajri, Eri Kusnadi, Muhammad Agus Andriansyah.
+17090033 Khoirul Amir Fajri
+17090018 Eri Kusnadi
+17090065 Muhammad Agus Andriansyah
